@@ -6,7 +6,7 @@ permalink: /sponsors/sponsorUs/index.html
 layout: page
 ---
 ## Industry Partner Program
-The Industry Partners Program (IPP) is a effort by AquaPack to facilitate connections between leading companies and our students— students with real-world engineering experience.
+The Industry Partners Program (IPP) is a effort by AquaPack to facilitate connections between leading companies and our students with real-world engineering experience.
 ## Sponsorships
 Sponsorships, whether monetary or in-kind, help provide support to AquaPack by allowing us to meet our goals for competition and robot devleopment. 
 
