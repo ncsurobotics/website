@@ -52,7 +52,7 @@ Sponsorships, whether monetary or in-kind, help provide support to AquaPack by a
     }
 
 </style>
- <a href= "/assets/files/AquaPack-Sponsorship-Packet 25-26.pdf" target="_blank" class="button-link"> Open Sponsorship Packet </a>
+ <a href= "/assets/files/Aquapack-Sponsorship-Packet 25-26.pdf" target="_blank" class="button-link"> Open Sponsorship Packet </a>
  </div>
  </div>
 
