@@ -12,8 +12,8 @@ Sponsorships, whether monetary or in-kind, help provide support to AquaPack by a
 
 <!-- The buttons for download -->
 <div class="inline-container">
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-<style>
+  <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <style>
     .button-link {
         display: inline-block;
         padding: 15px 23px;
@@ -28,8 +28,10 @@ Sponsorships, whether monetary or in-kind, help provide support to AquaPack by a
 
     .button-link:hover {
         background-color: #cf4448; 
-    }
+  }
+
 </style>
+
  <a href= "/assets/files/AquaPack-IPP-Packet-25-26.pdf" target="_blank" class="button-link"> Open Industry Partners Packet </a>
 
  <style>
@@ -48,8 +50,9 @@ Sponsorships, whether monetary or in-kind, help provide support to AquaPack by a
     .button-link:hover {
         background-color: #cf4448; 
     }
+
 </style>
- <a href="/assets/files/Aquapack-Sponsorship-Packet-25-26.pdf" target="_blank" class="button-link"> Open Sponsorship Packet </a>
+ <a href= "/assets/files/AquaPack-Sponsorship-Packet 25-26.pdf" target="_blank" class="button-link"> Open Sponsorship Packet </a>
  </div>
  </div>
 
