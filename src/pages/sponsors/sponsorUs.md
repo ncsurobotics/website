@@ -9,7 +9,7 @@ layout: page
 ### Industry Partner Program
 The Industry Partners Program (IPP) is an effort by AquaPack to facilitate connections between companies and our students with real-world engineering experience. 
 ### Sponsorships
-Sponsorships, whether monetary or in-kind, help provide support to AquaPack by allowing us to meet our goals for competition and robot devleopment. 
+Sponsorships, whether monetary or in-kind, help provide support to AquaPack by allowing us to meet our goals for competition and robot development. 
 <p>
 </p>
 
@@ -24,8 +24,7 @@ Sponsorships, whether monetary or in-kind, help provide support to AquaPack by a
 ### Why Be a Sponsor or an Industry Partner? 
 
 #### Invest In Future Engineers
-
-AquaPack Robotics is commited to giving our members experiences that develop their soft and technical with workshops and hands-on experience in a collaborative environment. Investing in us inturn allows us to allocate resources to give students the exposure they need to develop these skills.
+AquaPack Robotics is committed to giving our members experiences that develop their soft and technical with workshops and hands-on experience in a collaborative environment. Investing in us in turn allows us to allocate resources to give students the exposure they need to develop these skills.
 
 #### Invest In Your Company
 As a sponsor or industry partner, you have the opportunity to directly connect with undergraduate College of Engineering students who have practical experience in an interdisciplinary project.
