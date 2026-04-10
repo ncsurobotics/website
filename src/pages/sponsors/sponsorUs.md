@@ -5,83 +5,58 @@ discover:
 permalink: /sponsors/sponsorUs/index.html
 layout: page
 ---
-## Industry Partner Program
-The Industry Partners Program (IPP) is a effort by AquaPack to facilitate connections between leading companies and our students with real-world engineering experience.
-## Sponsorships
-Sponsorships, whether monetary or in-kind, help provide support to AquaPack by allowing us to meet our goals for competition and robot devleopment. 
+
+### Industry Partner Program
+The Industry Partners Program (IPP) is an effort by AquaPack to facilitate connections between companies and our students with real-world engineering experience. 
+### Sponsorships
+Sponsorships, whether monetary or in-kind, help provide support to AquaPack by allowing us to meet our goals for competition and robot development. 
+<p>
+</p>
 
 <!-- The buttons for download -->
-<div class="inline-container">
-  <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <style>
-    .button-link {
-        display: inline-block;
-        padding: 15px 23px;
-        background-color: #cd2027; 
-        color: white; 
-        text-decoration: none; 
-        border-radius: 5px; 
-        text-align: center;
-        cursor: pointer; 
-        border: none;
-    }
+<div class="wrapper">
+  <ul class="cluster text-center" role="list">
+    <a href="/assets/files/AquaPack-IPP-Packet-25-26.pdf" class="button" data-button-variant="primary">Open Industry Partners Packet</a>
+    <a href="/assets/files/Aquapack-Sponsorship-Packet 25-26.pdf" class="button" data-button-variant="primary">Open Sponsorship Packet</a>
+  </ul>
+</div>
 
-    .button-link:hover {
-        background-color: #cf4448; 
-  }
+### Why Be a Sponsor or an Industry Partner? 
 
-</style>
+#### Invest In Future Engineers
+AquaPack Robotics is committed to giving our members experiences that develop their soft and technical with workshops and hands-on experience in a collaborative environment. Investing in us in turn allows us to allocate resources to give students the exposure they need to develop these skills.
 
- <a href= "/assets/files/AquaPack-IPP-Packet-25-26.pdf" target="_blank" class="button-link"> Open Industry Partners Packet </a>
+#### Invest In Your Company
+As a sponsor or industry partner, you have the opportunity to directly connect with undergraduate College of Engineering students who have practical experience in an interdisciplinary project.
 
- <style>
-    .button-link {
-        display: inline-block;
-        padding: 15px 23px;
-        background-color: #cd2027; 
-        color: white; 
-        text-decoration: none; 
-        border-radius: 5px; 
-        text-align: center;
-        cursor: pointer; 
-        border: none;
-    }
+#### Recognition
+Your company gets the opportunity to host events at NC State and your logo gets displayed on our merchandise and website.    
 
-    .button-link:hover {
-        background-color: #cf4448; 
-    }
+#### Tax Write Off
+We're a 501(c)(3) non-profit. You can receive tax write-offs by sponsoring us.
 
-</style>
- <a href= "/assets/files/Aquapack-Sponsorship-Packet 25-26.pdf" target="_blank" class="button-link"> Open Sponsorship Packet </a>
- </div>
- </div>
-
-## Why Be a Sponsor or an Industry Partner?
-
-### Invest in Future Engineers 
-we are so cool
-
-### Invest In Your Company
-you are so cool 
-
-### Recognition
-merch rahahah
-
-### Tax Write Off
-were non profit 
 <div class="columns">
 	<div class="columns__item columns__item--first">
   <h3>Check Payment </h3>
+  
   <p><strong>Payable to:</strong><br>
   AquaPack Robotics<br>
+  <br>
   <strong>Mail to: </strong><br>
   AquaPack Robotics<br>
   890 Oval Drive<br>
   Engineering Building 2 Room 1034<br>
   Raleigh, NC 27606</p> 
 	</div>
+  <br>
 	<div class="columns__item columns__item--second">
-		<h3> Venmo Giving Charity </h3>
+	<h3> Venmo Giving Charity </h3>
+  
+  <p>You can donate directly to us without any fees via the Paypal giving charity. </p> 
+  <ul>
+  <li><p> <strong>Pay by visiting the link:</strong> <a href="https://aquapackrobotics.org" target = "_blank" >https://aquapackrobotics.org</a> </p> </li>
+  <li>You can also search for us on Paypal's Charity page with the name AquaPack Robotics </li>
+  <li><strong>Ensure our donation page has the Employer Identification Number (EIN) 46-5609898</strong></li> </ul>
 	</div>
 </div>
 
@@ -93,7 +68,7 @@ Industry Partner Benefits
 We maintain a book with copies of the resumes of our members, which IPP partners gain access to.
 Our organization emphasizes industry readiness, so we use industry-standard tools and practices wherever possible. Our students are already trained and competent with software such as Solidworks and Git.
 Partner companies build relationships with a continually renewing talent pool of high quality students from a wide range of engineering diciplines, passionate about robotics and more. -->
-#### Venmo Giving Charity 
+
 
 <!-- <a href="https://aquapackrobotics.org/src/assets/download/Aquapack Sponsorship Packet 25-26.pdf" download="Aquapack_Sponsorship_Packet_25-26.pdf">Download</a> -->
 
