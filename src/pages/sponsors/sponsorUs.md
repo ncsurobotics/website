@@ -14,54 +14,12 @@ Sponsorships, whether monetary or in-kind, help provide support to AquaPack by a
 </p>
 
 <!-- The buttons for download -->
-
-
-<div class="inline-container">
-  <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <style>
-    .button-link {
-        display: inline-block;
-        padding: 15px 23px;
-        background-color: #cd2027; 
-        color: white; 
-        text-decoration: none; 
-        border-radius: 5px; 
-        text-align: center;
-        cursor: pointer; 
-        border: none;
-    }
-
-    .button-link:hover {
-        background-color: #cf4448; 
-  }
-
-</style>
-
- 
- 
- <a href= "/assets/files/AquaPack-IPP-Packet-25-26.pdf" target="_blank" class="button-link"> Open Industry Partners Packet </a>
-
- <style>
-    .button-link {
-        display: inline-block;
-        padding: 15px 23px;
-        background-color: #cd2027; 
-        color: white; 
-        text-decoration: none; 
-        border-radius: 5px; 
-        text-align: center;
-        cursor: pointer; 
-        border: none;
-    }
-
-    .button-link:hover {
-        background-color: #cf4448; 
-    }
-
-</style>
- <a href= "/assets/files/Aquapack-Sponsorship-Packet 25-26.pdf" target="_blank" class="button-link"> Open Sponsorship Packet </a>
- </div>
- </div>
+<div class="wrapper">
+  <ul class="cluster text-center" role="list">
+    <a href="/assets/files/AquaPack-IPP-Packet-25-26.pdf" class="button" data-button-variant="primary">Open Industry Partners Packet</a>
+    <a href="/assets/files/Aquapack-Sponsorship-Packet 25-26.pdf" class="button" data-button-variant="primary">Open Sponsorship Packet</a>
+  </ul>
+</div>
 
 ### Why Be a Sponsor or an Industry Partner? 
 
