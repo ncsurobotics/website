@@ -1,0 +1,25 @@
+[language-server.ltex-ls]
+command = "ltex-ls"
+
+[language-server.ltex-ls.config]
+ltex.disabledRules = { "en-US" = [
+  "PROFANITY",
+], "en-GB" = [
+  "PROFANITY",
+] }
+ltex.dictionary = { "en-US" = [
+  "builtin",
+], "en-GB" = [
+  "builtin",
+] } 
+
+[[language]]
+name = "markdown"
+language-servers = [  "ltex-ls", "marksman" ]
+text-width = 80
+formatter = { command = 'prettier', args = [
+  "--parser",
+  "markdown",
+  "--prose-wrap",
+  "never",        # <always|never|preserve>
+] }
