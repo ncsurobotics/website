@@ -32,3 +32,38 @@ content:
       - name: body
         label: Body
         type: rich-text
+  - name: members
+    label: Members
+    type: file
+    path: src/_data/members.yaml
+    format: yaml
+    list: true
+    fields:
+      - name: firstName
+        type: string
+      - name: lastName
+        type: string
+      - name: leadership
+        type: boolean
+      - name: position
+        type: string
+      - name: teams
+        type: select
+        options: 
+          multiple: true
+          values: 
+            - "Admin"
+            - "Business"
+            - "Electrical"
+            - "Mechanical"
+            - "Software"
+      - name: platforms
+        type: object
+        fields:
+          - name: linkedin
+            type: string
+          - name: github
+            type: string
+      - name: info
+        list: true
+        type: string
