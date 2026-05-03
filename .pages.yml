@@ -9,5 +9,18 @@ content:
     fields:
       - name: title
         type: string
+      - name: description
+        type: string
+      - name: date
+        type: date
+      - name: image
+        type: image
+      - name: alt
+        type: string
+      - name: credit
+        type: string
+      - name: tags
+        type: string
+        list: true
       - name: body
         type: rich-text
