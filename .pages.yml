@@ -40,14 +40,22 @@ content:
     list: true
     fields:
       - name: firstName
+        label: First Name
         type: string
       - name: lastName
+        label: Last Name
         type: string
       - name: leadership
+        label: Leadership
+        type: boolean
+      - name: alum
+        label: Alum
         type: boolean
       - name: position
+        label: Position
         type: string
       - name: teams
+        label: Teams
         type: select
         options: 
           multiple: true
@@ -58,12 +66,16 @@ content:
             - "Mechanical"
             - "Software"
       - name: platforms
+        label: Social Platforms
         type: object
         fields:
           - name: linkedin
+            label: LinkedIn
             type: string
           - name: github
+            label: Github
             type: string
       - name: info
+        label: Aditional Information
         list: true
         type: string
