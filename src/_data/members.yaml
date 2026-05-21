@@ -1,11 +1,496 @@
-- firstName: Ashton
-  lastName: Henderlite
+# This file contains the members of the team, including their names, positions, teams, platforms, and additional information.
+# Each member is represented as a dictionary with the following keys: 
+# firstName, lastName, position, leadership, teams, platforms, info, and image.
+# position needs to be filled only if the member is in a leadership role
+
+
+abhiPoosarla:
+  firstName: Abhi
+  lastName: Poosarla
   leadership: true
+  position: President
+  teams:
+    - Admin 
+    - Electrical
+    - Business
+  platforms:
+    linkedin: https://www.linkedin.com/in/abhiram-poosarla
+  info:
+    - 3rd Year Undergraduate Student
+    - Computer Engineering
+
+khangPham:
+  firstName: Khang
+  lastName: Pham
+  position: Vice President
+  leadership: true
+  teams:
+    - Admin
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/khang-pham1234/
+  info:
+    - 3rd Year Undergraduate Student
+    - Computer Engineering
+
+akshayPradhan:
+  firstName: Akshay
+  lastName: Pradhan
+  position: Project Manager
+  leadership: true
+  teams: 
+    - Admin
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/akshay-pradhan-518b41250/
+  info:
+    - 4th Year Undergraduate Student
+    - Computer Engineering
+
+alexandriaEpley:
+  firstName: Alexandria
+  lastName: Epley
+  position: Mechanical Team Lead
+  leadership: true
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/alexandriaepley/
+    github: https://github.com/aepley0844
+  info:
+    - 3rd Year Undergraduate Student
+    - Mechanical Engineering
+
+jackFetkovich:
+  firstName: Jack
+  lastName: Fetkovich
+  position: Electrical Team Lead
+  leadership: true
+  platforms:
+    linkedin: https://www.linkedin.com/in/jack-fetkovich
+    github: https://github.com/jackfetkovich
+  teams: 
+    - Electrical
+  info:
+    - 3rd Year Undergraduate Student
+    - Electrical Engineering
+
+ashtonHenderlite:
+  firstName: Ashton
+  lastName: Henderlite
   position: Software Team Lead
+  leadership: true
   teams:
     - Software
   platforms:
-    linkedin: https://cblkjs.com
-    github: https://cblkjs.com
+    linkedin: https://www.linkedin.com/in/Ashton-Henderlite
+    github: https://github.com/cowboylaserkittenjetshark/
   info:
-    - 500th year on this planet
+    - 2nd Year Undergraduate Student
+    - Computer Engineering
+
+sarangaRajagopalan:
+  firstName: Saranga
+  lastName: Rajagopalan
+  position: Software Team Lead
+  leadership: true
+  teams:
+    - Software
+  platforms:
+    linkedin: https://www.linkedin.com/in/saranga-rajagopalan/
+    github: https://github.com/SarangaR/
+  info:
+    - 2nd Year Undergraduate Student	
+    - Computer Engineering
+
+everettBrostedt:
+  firstName: Everett
+  lastName: Brostedt
+  position: External Treasurer
+  leadership: true
+  teams:
+    - Admin
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/everett-brostedt-978521338/
+  info:
+    - 2nd Year Undergraduate Student
+    - Electrical Engineering
+
+harperMartin:
+  firstName: Harper
+  lastName: Martin
+  position: Internal Treasurer
+  leadership: true
+  teams:
+    - Admin
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/harper-j-martin/
+  info:
+    - 2nd Year Undergraduate Student
+    - Computer Engineering
+
+arjunKuncha:
+  firstName: Arjun
+  lastName: Kuncha
+  position: Secretary
+  leadership: true
+  teams:
+    - Admin
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/arjun-kuncha/
+  info:
+    - 2nd Year Undergraduate Student
+    - Mechanical Engineering & Economics
+
+ajBeckmann:
+  firstName: A.J.
+  lastName: Beckmann
+  teams: 
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/a-j-beckmann-691998207/
+  info:
+    - 1st year Master's Student
+    - Electrical Engineering
+
+achyutaKannan:
+  firstName: Achyuta
+  lastName: Kannan
+  teams:
+    - Software
+  platforms:
+    linkedin: https://www.linkedin.com/in/achyuta-kannan/
+    github: https://github.com/fategg555
+  info:
+    - 4th Year Undergraduate Student
+    - Computer Science
+
+adhvikRai:
+  firstName: Adhvik
+  lastName: Rai
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/adhvik-rai/
+  info:
+    - 3rd Year Undergraduate Student
+    - Computer Engineering
+
+aedenFodi:
+  firstName: Aeden
+  lastName: Fodi
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: http://linkedin.com/in/joseph-aeden-fodi-92b23b1a7
+  info: 
+    - 4th Year Undergraduate Student
+    - Mechanical Engineering
+
+alexisMead:
+  firstName: Alexis
+  lastName: Mead
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/alexis-mead1/
+  info: 
+    - 2nd Year Undergraduate Student
+    - Mechanical Engineering
+
+alexOfsanik:
+  firstName: Alex
+  lastName: Ofsanik
+  info:
+    - 5th Year Undergraduate Student
+    - Industrial & Systems Engineering
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/alex-ofsanik/
+
+
+chaitanyaChauhan:
+  firstName: Chaitanya
+  lastName: Chauhan
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/chaitanya-chauhan-bb8323226/
+  info:
+    - 3rd Year Undergraduate Student
+    - Computer Engineering
+
+christopherChu:
+  firstName: Christopher
+  lastName: Chu
+  teams:
+    - Electrical
+    - Software
+  platforms:
+    linkedin: https://www.linkedin.com/in/cchu34/
+  info:
+    - 3rd Year Undergraduate Student
+    - Electrical & Computer Engineering
+
+coleAustin:
+  firstName: Cole
+  lastName: Austin
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/cole-austin-7845ab295/
+  info: 
+    - 3rd Year Undergraduate Student
+    - Computer Engineering
+
+denverHuffman:
+  firstName: Denver
+  lastName: Huffman
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/denver-huffman-2225932b5/
+  info:
+    - 3rd Year Undergraduate Student
+    - Mechanical Engineering
+
+elizabethGillikin:
+  firstName: Elizabeth
+  lastName: Gillikin
+  teams:
+    - Admin
+    - Mechanical
+    - Business
+  platforms:
+    linkedin: https://www.linkedin.com/in/elizabeth-gillikin/
+  info:
+    - 5th Year Undergraduate Student
+    - Mechanical Engineering
+
+gabrielChenevert:
+  firstName: Gabriel
+  lastName: Chenevert
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/gabriel-chenevert-46221a179/
+  info:
+      - 3rd Year PhD student
+      - Mechanical Engineering
+
+gabrielRiccio:
+  firstName: Gabriel
+  lastName: Riccio
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/gabriel-riccio-341405292/
+  info:
+    - 3rd Year Undergraduate Student
+    - Electrical & Computer Engineering
+
+harrisonMcCleary:
+  firstName: Harrison
+  lastName: McCleary
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/harrison-mccleary/
+  info:
+    - 2nd Year Undergraduate Student
+    - Computer Engineering
+
+jasonLu:
+  firstName: Jason
+  lastName: Lu
+  teams:
+    - Software
+  platforms:
+    linkedin: https://www.linkedin.com/in/jason-lu-5333a9252/
+  info:
+    - 2nd Year Undergraduate Student
+    - Computer Science
+
+
+juliannaWhite:
+  firstName: Julianna
+  lastName: White
+  teams:
+    - Admin
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/julianna-marie-white/
+  info:
+    - Alumni
+    - Nuclear Engineering
+
+kellyNewberry:
+  firstName: Kelly
+  lastName: Newberry
+  teams: 
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/kelly-newberry/
+  info:
+    - 3rd Year Undergraduate Student
+    - Mechanical Engineering
+
+lucasGiannini:
+  firstName: Lucas
+  lastName: Giannini
+  teams:
+    - Business
+  platforms:
+    linkedin: https://www.linkedin.com/in/lmgiannini/
+  info:
+    - 2nd Year Undergraduate Student	
+    - Business Administration
+
+malachiVazquezCarr:
+  firstName: Malachi
+  lastName: Vazquez-Carr
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/malachi-vazquez-carr-b587392a7/
+  info:
+    - 3rd Year Undergraduate Student
+    - Electrical Engineering
+
+maxwellMoon:
+  firstName: Maxwell
+  lastName: Moon
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/moon-maxwell/
+  info:
+    - 2nd Year Undergraduate Student
+    - Electrical Engineering	
+
+mohamedElhiber:
+  firstName: Mohamed
+  lastName: Elhiber
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/mohamed-elhiber-1277b21b4/
+  info:
+    - 3rd Year Undergraduate Student
+    - Electrical Engineering
+
+rahulVenulkar:
+  firstName: Rahul
+  lastName: Venulkar
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/rahul-venulkar-3b34ab231/
+  info:
+    - 4th Year Undergraduate Student
+    - Computer Engineering
+
+reillyWitte:
+  firstName: Reilly
+  lastName: Witte
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/reilly-witte/
+  info:
+    - 4th Year Undergraduate Student
+    - Computer Engineering
+
+renukaMahadevan:
+  firstName: Renuka
+  lastName: Mahadevan
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/renuka-mahadevan-2037862a5/
+  info:
+    - 3rd Year Undergraduate Student
+    - Aerospace Engineering
+
+ryanPage:
+  firstName: Ryan
+  lastName: Page
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/ryan-d-page/
+  info:
+    - 4th Year Undergraduate Student
+    - Mechanical Engineering
+
+sahitiMudireddy:
+  firstName: Sahiti
+  lastName: Mudireddy
+  teams:
+    - Mechanical
+    - Business
+  platforms:
+    linkedin: https://www.linkedin.com/in/sahiti-mudireddy-4300b02aa/
+  info:
+    - 2nd Year Undergraduate Student
+    - Electrical & Computer Engineering
+
+sameerDalal:
+  firstName: Sameer
+  lastName: Dalal
+  teams:
+    - Electrical
+    - Business
+  platforms:
+    linkedin: https://www.linkedin.com/in/stdalal/
+  info:
+    - 2nd Year Undergraduate Student
+    - Electrical & Computer Engineering
+
+spencerMol:
+  firstName: Spencer
+  lastName: Mol
+  teams: 
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/spencermol/
+  info:
+    - 4th Year Undergraduate Student
+    - Mechanical Engineering
+
+suveshBhusal:
+  firstName: Suvesh
+  lastName: Bhusal
+  teams:
+    - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/suvesh-bhusal/
+  info:
+    - 3rd Year Undergraduate Student
+    - Electrical Engineering
+
+trevorPetzold:
+  firstName: Trevor
+  lastName: Petzold
+  teams:
+    - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/petzoldtrevor/
+  info:
+    - 3rd Year Undergraduate Student
+    - Aerospace Engineering
+
+zetaHeld:
+  firstName: Zeta
+  lastName: Held
+  teams:
+    -  Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/zeta-held-265b1524a/
+  info:
+    - 3rd Year Undergraduate Student
+    - Mechanical Engineering
