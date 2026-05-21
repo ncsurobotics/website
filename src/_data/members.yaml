@@ -2,10 +2,7 @@
 # Each member is represented as a dictionary with the following keys: 
 # firstName, lastName, position, leadership, teams, platforms, info, and image.
 # position needs to be filled only if the member is in a leadership role
-
-
-abhiPoosarla:
-  firstName: Abhi
+- firstName: Abhi
   lastName: Poosarla
   leadership: true
   position: President
@@ -19,8 +16,7 @@ abhiPoosarla:
     - 3rd Year Undergraduate Student
     - Computer Engineering
 
-khangPham:
-  firstName: Khang
+- firstName: Khang
   lastName: Pham
   position: Vice President
   leadership: true
@@ -33,8 +29,7 @@ khangPham:
     - 3rd Year Undergraduate Student
     - Computer Engineering
 
-akshayPradhan:
-  firstName: Akshay
+- firstName: Akshay
   lastName: Pradhan
   position: Project Manager
   leadership: true
@@ -47,8 +42,7 @@ akshayPradhan:
     - 4th Year Undergraduate Student
     - Computer Engineering
 
-alexandriaEpley:
-  firstName: Alexandria
+- firstName: Alexandria
   lastName: Epley
   position: Mechanical Team Lead
   leadership: true
@@ -61,8 +55,7 @@ alexandriaEpley:
     - 3rd Year Undergraduate Student
     - Mechanical Engineering
 
-jackFetkovich:
-  firstName: Jack
+- firstName: Jack
   lastName: Fetkovich
   position: Electrical Team Lead
   leadership: true
@@ -75,8 +68,7 @@ jackFetkovich:
     - 3rd Year Undergraduate Student
     - Electrical Engineering
 
-ashtonHenderlite:
-  firstName: Ashton
+- firstName: Ashton
   lastName: Henderlite
   position: Software Team Lead
   leadership: true
@@ -89,8 +81,7 @@ ashtonHenderlite:
     - 2nd Year Undergraduate Student
     - Computer Engineering
 
-sarangaRajagopalan:
-  firstName: Saranga
+- firstName: Saranga
   lastName: Rajagopalan
   position: Software Team Lead
   leadership: true
@@ -103,8 +94,7 @@ sarangaRajagopalan:
     - 2nd Year Undergraduate Student	
     - Computer Engineering
 
-everettBrostedt:
-  firstName: Everett
+- firstName: Everett
   lastName: Brostedt
   position: External Treasurer
   leadership: true
@@ -117,8 +107,7 @@ everettBrostedt:
     - 2nd Year Undergraduate Student
     - Electrical Engineering
 
-harperMartin:
-  firstName: Harper
+- firstName: Harper
   lastName: Martin
   position: Internal Treasurer
   leadership: true
@@ -131,8 +120,7 @@ harperMartin:
     - 2nd Year Undergraduate Student
     - Computer Engineering
 
-arjunKuncha:
-  firstName: Arjun
+- firstName: Arjun
   lastName: Kuncha
   position: Secretary
   leadership: true
@@ -145,8 +133,7 @@ arjunKuncha:
     - 2nd Year Undergraduate Student
     - Mechanical Engineering & Economics
 
-ajBeckmann:
-  firstName: A.J.
+- firstName: A.J.
   lastName: Beckmann
   teams: 
     - Electrical
@@ -156,8 +143,7 @@ ajBeckmann:
     - 1st year Master's Student
     - Electrical Engineering
 
-achyutaKannan:
-  firstName: Achyuta
+- firstName: Achyuta
   lastName: Kannan
   teams:
     - Software
@@ -168,8 +154,7 @@ achyutaKannan:
     - 4th Year Undergraduate Student
     - Computer Science
 
-adhvikRai:
-  firstName: Adhvik
+- firstName: Adhvik
   lastName: Rai
   teams:
     - Electrical
@@ -179,8 +164,7 @@ adhvikRai:
     - 3rd Year Undergraduate Student
     - Computer Engineering
 
-aedenFodi:
-  firstName: Aeden
+- firstName: Aeden
   lastName: Fodi
   teams:
     - Mechanical
@@ -190,8 +174,7 @@ aedenFodi:
     - 4th Year Undergraduate Student
     - Mechanical Engineering
 
-alexisMead:
-  firstName: Alexis
+- firstName: Alexis
   lastName: Mead
   teams:
     - Mechanical
@@ -201,8 +184,7 @@ alexisMead:
     - 2nd Year Undergraduate Student
     - Mechanical Engineering
 
-alexOfsanik:
-  firstName: Alex
+- firstName: Alex
   lastName: Ofsanik
   info:
     - 5th Year Undergraduate Student
@@ -213,8 +195,7 @@ alexOfsanik:
     linkedin: https://www.linkedin.com/in/alex-ofsanik/
 
 
-chaitanyaChauhan:
-  firstName: Chaitanya
+- firstName: Chaitanya
   lastName: Chauhan
   teams:
     - Electrical
@@ -224,8 +205,7 @@ chaitanyaChauhan:
     - 3rd Year Undergraduate Student
     - Computer Engineering
 
-christopherChu:
-  firstName: Christopher
+- firstName: Christopher
   lastName: Chu
   teams:
     - Electrical
@@ -236,8 +216,7 @@ christopherChu:
     - 3rd Year Undergraduate Student
     - Electrical & Computer Engineering
 
-coleAustin:
-  firstName: Cole
+- firstName: Cole
   lastName: Austin
   teams:
     - Electrical
@@ -247,8 +226,7 @@ coleAustin:
     - 3rd Year Undergraduate Student
     - Computer Engineering
 
-denverHuffman:
-  firstName: Denver
+- firstName: Denver
   lastName: Huffman
   teams:
     - Mechanical
@@ -258,8 +236,7 @@ denverHuffman:
     - 3rd Year Undergraduate Student
     - Mechanical Engineering
 
-elizabethGillikin:
-  firstName: Elizabeth
+- firstName: Elizabeth
   lastName: Gillikin
   teams:
     - Admin
@@ -271,8 +248,7 @@ elizabethGillikin:
     - 5th Year Undergraduate Student
     - Mechanical Engineering
 
-gabrielChenevert:
-  firstName: Gabriel
+- firstName: Gabriel
   lastName: Chenevert
   teams:
     - Mechanical
@@ -282,8 +258,7 @@ gabrielChenevert:
       - 3rd Year PhD student
       - Mechanical Engineering
 
-gabrielRiccio:
-  firstName: Gabriel
+- firstName: Gabriel
   lastName: Riccio
   teams:
     - Electrical
@@ -293,8 +268,7 @@ gabrielRiccio:
     - 3rd Year Undergraduate Student
     - Electrical & Computer Engineering
 
-harrisonMcCleary:
-  firstName: Harrison
+- firstName: Harrison
   lastName: McCleary
   teams:
     - Electrical
@@ -304,8 +278,7 @@ harrisonMcCleary:
     - 2nd Year Undergraduate Student
     - Computer Engineering
 
-jasonLu:
-  firstName: Jason
+- firstName: Jason
   lastName: Lu
   teams:
     - Software
@@ -316,8 +289,7 @@ jasonLu:
     - Computer Science
 
 
-juliannaWhite:
-  firstName: Julianna
+- firstName: Julianna
   lastName: White
   teams:
     - Admin
@@ -328,8 +300,7 @@ juliannaWhite:
     - Alumni
     - Nuclear Engineering
 
-kellyNewberry:
-  firstName: Kelly
+- firstName: Kelly
   lastName: Newberry
   teams: 
     - Mechanical
@@ -339,8 +310,7 @@ kellyNewberry:
     - 3rd Year Undergraduate Student
     - Mechanical Engineering
 
-lucasGiannini:
-  firstName: Lucas
+- firstName: Lucas
   lastName: Giannini
   teams:
     - Business
@@ -350,8 +320,7 @@ lucasGiannini:
     - 2nd Year Undergraduate Student	
     - Business Administration
 
-malachiVazquezCarr:
-  firstName: Malachi
+- firstName: Malachi
   lastName: Vazquez-Carr
   teams:
     - Electrical
@@ -361,8 +330,7 @@ malachiVazquezCarr:
     - 3rd Year Undergraduate Student
     - Electrical Engineering
 
-maxwellMoon:
-  firstName: Maxwell
+- firstName: Maxwell
   lastName: Moon
   teams:
     - Electrical
@@ -372,8 +340,7 @@ maxwellMoon:
     - 2nd Year Undergraduate Student
     - Electrical Engineering	
 
-mohamedElhiber:
-  firstName: Mohamed
+- firstName: Mohamed
   lastName: Elhiber
   teams:
     - Electrical
@@ -383,8 +350,7 @@ mohamedElhiber:
     - 3rd Year Undergraduate Student
     - Electrical Engineering
 
-rahulVenulkar:
-  firstName: Rahul
+- firstName: Rahul
   lastName: Venulkar
   teams:
     - Electrical
@@ -394,8 +360,7 @@ rahulVenulkar:
     - 4th Year Undergraduate Student
     - Computer Engineering
 
-reillyWitte:
-  firstName: Reilly
+- firstName: Reilly
   lastName: Witte
   teams:
     - Electrical
@@ -405,8 +370,7 @@ reillyWitte:
     - 4th Year Undergraduate Student
     - Computer Engineering
 
-renukaMahadevan:
-  firstName: Renuka
+- firstName: Renuka
   lastName: Mahadevan
   teams:
     - Mechanical
@@ -416,8 +380,7 @@ renukaMahadevan:
     - 3rd Year Undergraduate Student
     - Aerospace Engineering
 
-ryanPage:
-  firstName: Ryan
+- firstName: Ryan
   lastName: Page
   teams:
     - Mechanical
@@ -427,8 +390,7 @@ ryanPage:
     - 4th Year Undergraduate Student
     - Mechanical Engineering
 
-sahitiMudireddy:
-  firstName: Sahiti
+- firstName: Sahiti
   lastName: Mudireddy
   teams:
     - Mechanical
@@ -439,8 +401,7 @@ sahitiMudireddy:
     - 2nd Year Undergraduate Student
     - Electrical & Computer Engineering
 
-sameerDalal:
-  firstName: Sameer
+- firstName: Sameer
   lastName: Dalal
   teams:
     - Electrical
@@ -451,8 +412,7 @@ sameerDalal:
     - 2nd Year Undergraduate Student
     - Electrical & Computer Engineering
 
-spencerMol:
-  firstName: Spencer
+- firstName: Spencer
   lastName: Mol
   teams: 
     - Mechanical
@@ -462,8 +422,7 @@ spencerMol:
     - 4th Year Undergraduate Student
     - Mechanical Engineering
 
-suveshBhusal:
-  firstName: Suvesh
+- firstName: Suvesh
   lastName: Bhusal
   teams:
     - Electrical
@@ -473,8 +432,7 @@ suveshBhusal:
     - 3rd Year Undergraduate Student
     - Electrical Engineering
 
-trevorPetzold:
-  firstName: Trevor
+- firstName: Trevor
   lastName: Petzold
   teams:
     - Mechanical
@@ -484,8 +442,7 @@ trevorPetzold:
     - 3rd Year Undergraduate Student
     - Aerospace Engineering
 
-zetaHeld:
-  firstName: Zeta
+- firstName: Zeta
   lastName: Held
   teams:
     -  Mechanical
