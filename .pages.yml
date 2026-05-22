@@ -79,3 +79,6 @@ content:
         label: Aditional Information
         list: true
         type: string
+      - name: image
+        label: Image Override
+        type: string
