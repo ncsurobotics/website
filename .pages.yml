@@ -122,4 +122,4 @@ content:
         type: string
       - name: hours
         label: Hours
-        type: int
+        type: number
