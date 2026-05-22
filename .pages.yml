@@ -46,6 +46,9 @@ content:
     label: Members
     type: file
     path: src/_data/members.yaml
+    operations:
+      delete: false
+      rename: false
     format: yaml
     list: true
     fields:
@@ -92,3 +95,31 @@ content:
       - name: image
         label: Image Override
         type: string
+  - name: subteams
+    label: Subteams
+    type: file
+    path: src/_data/subteams.yaml
+    operations:
+      delete: false
+      rename: false
+    format: yaml
+    list: true
+    fields:
+      - name: name
+        label: Name
+        type: string
+      - name: icon
+        label: Icon
+        type: select
+        options: 
+          values: 
+            - "bolt"
+            - "code"
+            - "wrench"
+            - "briefcase"
+      - name: description
+        label: Description
+        type: string
+      - name: hours
+        label: Hours
+        type: int
