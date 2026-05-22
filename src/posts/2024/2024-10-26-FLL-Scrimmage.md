@@ -7,7 +7,9 @@ alt: Bull City Scrimmage SUBMERGED FIRST Lego League Game Table
 credit: "Image Credit: Elizabeth Gillikin"
 tags:
   - Volunteering
-author: elizabethGillikin
+author:
+  firstName: Elizabeth
+  lastName: Gillikin
 ---
 
 Last week, AquaPack headed to Durham, NC for the 11th Annual Bull City FIRST Lego League (FLL) Scrimmage at the Trinity School. The FLL game for the 2024-2025 was "SUBMERGED," with the goal of exploring the ocean using creative thinking and LEGO® technology- as an organization that designs and builds autonomous underwater robots, this event was a perfect opportunity for AquaPack to step in and help out. 

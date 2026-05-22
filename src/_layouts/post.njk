@@ -20,14 +20,14 @@ schema: BlogPosting
       %}
     {% endif %}
 
-    {% set member = members[author] %}
+    {% set member = members | selectMember(author.firstName, author.lastName) %}
     <div class="meta | cluster gutter-xs-s">
-      {% if author %}
+      {% if member %}
         {% set imageName = member.image | default(member.firstName + "-" + member.lastName + ".jpg") | default("member.svg", true) %}
         {% image "/assets/images/members/" + imageName, "Author Photo", null, "lazy", "author" %}
       {% endif %}
       <div>
-        {% if author %}
+        {% if member %}
           <p>
               By {{ member.firstName }} {{ member.lastName }}
           </p>

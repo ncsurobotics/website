@@ -94,16 +94,14 @@ bottom:
 ```
 
 ### Members
-- Member data is stored as a yaml dictionary in `src/_data/members.yaml`
-- The top level key for each member should be formatted in camel case with all punctuation removed
+- Member data is stored as a yaml list in `src/_data/members.yaml`
 - Member photos are expected to be in `src/assets/images/members/` and name `firstName-lastName.jpg`
 	- John Doe would need a photo at `src/assets/images/members/John-Doe.jpg`
 	- If the photo is in a different format or cannot be renamed, manually specify the image as shown in the format below
 
 #### Format
 ```yaml
-johnDoe:
-  firstName: John # [Required] Their first name
+- firstName: John # [Required] Their first name
   lastName: Doe   # [Required] Their last name
 
   # [Optional] The title to be displayed under their name

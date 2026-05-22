@@ -6,6 +6,7 @@ import {splitlines} from './filters/splitlines.js';
 import {striptags} from './filters/striptags.js';
 import {slugifyString} from './filters/slugify.js';
 import {d2a} from './filters/dict-to-array.js';
+import {selectMember} from './filters/select-member.js';
 
 export default {
   toISOString,
@@ -16,5 +17,6 @@ export default {
   shuffleArray,
   sortAlphabetically,
   slugifyString,
-  d2a
+  d2a,
+  selectMember
 };

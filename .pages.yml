@@ -1,6 +1,6 @@
 media:
   input: src/assets
-  output: /media
+  output: /assets
 content:
   - name: posts
     label: Posts
@@ -8,19 +8,118 @@ content:
     path: src/posts
     fields:
       - name: title
+        label: Title
         type: string
       - name: description
+        label: Preview Description
         type: string
+      - name: author
+        label: Author
+        type: object
+        fields:
+          - name: firstName
+            label: First Name
+            type: string
+          - name: lastName
+            label: Last Name
+            type: string
       - name: date
+        label: Date
         type: date
       - name: image
+        label: Image
         type: image
       - name: alt
+        label: Image alt text
         type: string
       - name: credit
+        label: Image credit
         type: string
       - name: tags
+        label: Tags
         type: string
         list: true
       - name: body
+        label: Body
         type: rich-text
+  - name: members
+    label: Members
+    type: file
+    path: src/_data/members.yaml
+    operations:
+      delete: false
+      rename: false
+    format: yaml
+    list: true
+    fields:
+      - name: firstName
+        label: First Name
+        type: string
+      - name: lastName
+        label: Last Name
+        type: string
+      - name: leadership
+        label: Leadership
+        type: boolean
+      - name: alum
+        label: Alum
+        type: boolean
+      - name: position
+        label: Position
+        type: string
+      - name: teams
+        label: Teams
+        type: select
+        options: 
+          multiple: true
+          values: 
+            - "Admin"
+            - "Business"
+            - "Electrical"
+            - "Mechanical"
+            - "Software"
+      - name: platforms
+        label: Social Platforms
+        type: object
+        fields:
+          - name: linkedin
+            label: LinkedIn
+            type: string
+          - name: github
+            label: Github
+            type: string
+      - name: info
+        label: Aditional Information
+        list: true
+        type: string
+      - name: image
+        label: Image Override
+        type: string
+  - name: subteams
+    label: Subteams
+    type: file
+    path: src/_data/subteams.yaml
+    operations:
+      delete: false
+      rename: false
+    format: yaml
+    list: true
+    fields:
+      - name: name
+        label: Name
+        type: string
+      - name: icon
+        label: Icon
+        type: select
+        options: 
+          values: 
+            - "bolt"
+            - "code"
+            - "wrench"
+            - "briefcase"
+      - name: description
+        label: Description
+        type: string
+      - name: hours
+        label: Hours
+        type: number

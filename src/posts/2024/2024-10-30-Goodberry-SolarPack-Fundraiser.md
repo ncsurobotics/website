@@ -9,7 +9,9 @@ tags:
   - Social
   - Fundraiser
   - SolarPack
-author: sahitiMudireddy
+author: 
+  firstName: Sahiti 
+  lastName: Mudireddy 
 ---
 
 AquaPack teamed up with SolarPack, NC State’s solar vehicle team, for a deliciously and fun fundraiser at Goodberry’s Frozen Custard. As two engineering-focused student organizations, it was a great opportunity to collaborate outside the lab and raise some much-needed funds for our teams.

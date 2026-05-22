@@ -89,6 +89,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter('alphabetic', filters.sortAlphabetically);
   eleventyConfig.addFilter('slugify', filters.slugifyString);
   eleventyConfig.addFilter('d2a', filters.d2a);
+  eleventyConfig.addFilter('selectMember', filters.selectMember);
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
