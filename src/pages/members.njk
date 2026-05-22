@@ -5,15 +5,15 @@ title: 'Members'
 ---
 <div class="wrapper">
   {% set subsectionTitle = "Leadership" %}
-  {% set selectedMembers =  members | d2a | selectattr('leadership') | rejectattr('alum') %}
+  {% set selectedMembers =  members | selectattr('leadership') | rejectattr('alum') %}
   {% include 'partials/members-subsection.njk' %}
 
   {% set subsectionTitle = "Members" %}
-  {% set selectedMembers =  members | d2a | rejectattr('leadership') | rejectattr('alum') %}
+  {% set selectedMembers =  members | rejectattr('leadership') | rejectattr('alum') %}
   {% include 'partials/members-subsection.njk' %}
 
   {% set subsectionTitle = "Alum" %}
-  {% set selectedMembers =  members | d2a | selectattr('alum') %}
+  {% set selectedMembers =  members | selectattr('alum') %}
   {% include 'partials/members-subsection.njk' %}
 </div>
 

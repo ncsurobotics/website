@@ -8,7 +8,9 @@ credit: Abhi Poosarla
 tags:
   - Workshop
   - Sponsor
-author: sahitiMudireddy
+author: 
+  firstName: Sahiti 
+  lastName: Mudireddy 
 ---
 
 AquaPack was excited to kick off the semester with a professional development event with on of our sponsors, Analog Devices Inc (ADI). The event focused on resume building in anticipation for the fall engineering career fair. We had four amazing speakers, Brian Holford, a hiring manager and a principal engineer, Sara Idris, a mixed signal test engineer, and two AquaPack Alumni (🙌) Amr Moussa, a software engineer, and Alex Pendergast, a layout designer. 
