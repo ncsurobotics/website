@@ -132,7 +132,7 @@
 - firstName: A.J.
   lastName: Beckmann
   leadership: false
-  alum: false
+  alum: true
   teams:
     - Electrical
   platforms:
@@ -166,7 +166,7 @@
 - firstName: Aeden
   lastName: Fodi
   leadership: false
-  alum: false
+  alum: true
   teams:
     - Mechanical
   platforms:
@@ -187,8 +187,9 @@
     - Mechanical Engineering
 - firstName: Alex
   lastName: Ofsanik
-  leadership: false
-  alum: false
+  leadership: true
+  alum: true
+  position: Mechanical Team Lead (20xx - 2025)
   teams:
     - Mechanical
   platforms:
@@ -210,7 +211,7 @@
 - firstName: Christopher
   lastName: Chu
   leadership: false
-  alum: false
+  alum: true
   teams:
     - Electrical
     - Software
@@ -290,7 +291,7 @@
 - firstName: Jason
   lastName: Lu
   leadership: false
-  alum: false
+  alum: true
   teams:
     - Software
   platforms:
@@ -300,15 +301,15 @@
     - Computer Science
 - firstName: Julianna
   lastName: White
-  leadership: false
-  alum: false
+  leadership: true
+  alum: true
+  position: Project Manager (20xx - 2025)
   teams:
     - Admin
     - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/julianna-marie-white/
   info:
-    - Alumni
     - Nuclear Engineering
 - firstName: Kelly
   lastName: Newberry
