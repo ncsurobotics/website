@@ -78,7 +78,7 @@ top:
   - text: SeaWolves
     url: # 
     submenu:
-      - text: SeaWolf VIII
+      - text: Seawolf VIII
         url: /seawolves/seawolfVIII/
 
       - text: Past SeaWolves
