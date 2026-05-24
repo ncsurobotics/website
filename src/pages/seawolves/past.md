@@ -10,8 +10,8 @@ layout: page
 
 ## [Seawolf VIII](/seawolves/viii/)
 <div class="grid" data-layout="50-50">
-The latest iteration of our vehicle, Seawolf VIII, was created with the goal of improving platform stability and consistency to enable future development work. This iteration drew from the lessons learned from previous iterations, and focused on simplicity and maintainability throughout the design.
-{% image "/assets/images/seawolves/seawolfVIII.png", "Seawolf VIII, the latest iteration of the Seawolf AUV platform" %}
+The previous iteration of our vehicle, Seawolf VIII, was created with the goal of improving platform stability and consistency to enable future development work. This iteration drew from the lessons learned from previous iterations, focusing on simplicity and maintainability throughout the design. Seawolf VIII competed in Robosub from 2019 to 2025.
+{% image "/assets/images/seawolves/seawolfVIII.png", "Seawolf VIII, the previous iteration of the Seawolf AUV platform" %}
 </div>
 
 ## Seawolf VII

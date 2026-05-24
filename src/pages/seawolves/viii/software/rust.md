@@ -3,7 +3,7 @@ title: Rust
 sort: 0
 ---
 
-Seawolf's higher-level software is written in the Rust programming language. This code base interfaces with the control board, main electronics board, and peripheral devices to coordinate missions.
+Seawolf VIII's higher-level software is written in the Rust programming language. This code base interfaces with the control board, main electronics board, and peripheral devices to coordinate missions.
 
 We use Rust because it offers:
 - High performance comparable to C/C++
