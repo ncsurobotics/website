@@ -39,6 +39,20 @@ content:
         label: Tags
         type: string
         list: true
+      - name: gallery
+        label: Gallery
+        list: true
+        type: object
+        fields:
+          - name: image
+            label: Image
+            type: image
+          - name: alt
+            label: Alternate Text
+            type: string
+          - name: caption
+            label: Caption
+            type: string
       - name: body
         label: Body
         type: rich-text
