@@ -1,5 +1,5 @@
 ---
-title: Rust
+title: Rust Based Core
 sort: 0
 ---
 
