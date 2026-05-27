@@ -1,6 +1,6 @@
 ---
 title: Marker Dropper
-sort: 2
+sort: 5
 ---
 
 The dropper mechanism for SeaWolf IX consists of three major components: a 5V electromagnet, a magnetic 440C stainless steel ball, and a 3D-printed housing. The electromagnet is seated in the upper portion of the housing and is snugly held in place with a screwed-on lid. The stainless steel ball, or marker, rests in the lower part of the housing. Current continuously runs through the electromagnet to create a magnetic field, which holds the marker secure in the housing. 
