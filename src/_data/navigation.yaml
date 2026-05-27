@@ -2,16 +2,16 @@ top:
   - text: Members
     url: /members/
 
-  - text: Seawolves
+  - text: SeaWolves
     url: #
     submenu:
-      - text: Seawolf IX
+      - text: SeaWolf IX
         url: /seawolves/ix/
 
-      - text: Seawolf VIII
+      - text: SeaWolf VIII
         url: /seawolves/viii/
 
-      - text: Past Seawolves
+      - text: Past SeaWolves
         url: /seawolves/past/
 
   - text: Documentation
@@ -20,10 +20,10 @@ top:
       - text: GitHub
         url: https://github.com/ncsurobotics
       
-      - text: Seawolf IX
+      - text: SeaWolf IX
         url: /seawolves/ix/
         
-      - text: Seawolf VIII
+      - text: SeaWolf VIII
         url: /seawolves/viii/
       
       - text: Technical Design Reports
