@@ -23,8 +23,8 @@ layout: page
 <p class="text-center"><i>With 6DOF movement and a full complement of software and hardware systems, Seawolf IX is AquaPack's most advanced AUV platform</i></p>
 
 <div class="grid" data-layout="thirds">
-{% image "/assets/images/seawolfIX/front.jpg", "Front view of Seawolf IX, the latest iteration of the Seawolf AUV platform" %}
 {% image "/assets/images/seawolfIX/iso.jpg", "Isometric view of Seawolf IX, the latest iteration of the Seawolf AUV platform" %}
+{% image "/assets/images/seawolfIX/side.jpg", "Side view of Seawolf IX, the latest iteration of the Seawolf AUV platform" %}
 {% image "/assets/images/seawolfIX/top.jpg", "Top view of Seawolf IX, the latest iteration of the Seawolf AUV platform" %}
 </div>
 
@@ -60,6 +60,10 @@ layout: page
   <div class="full | region">
     <div class="wrapper flow prose">
       <h2>Software</h2>
+      {% svg "misc/sw_arch_min", null, "sponsor-logo"%}
       {% include 'partials/details.njk' %}
     </div>
   </div>
+{% css "local" %}
+  {% include "css/sponsors.css" %}
+{% endcss %}
