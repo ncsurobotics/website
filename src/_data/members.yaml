@@ -4,476 +4,1296 @@
   alum: false
   position: President
   teams:
-    - Admin
-    - Electrical
-    - Business
+  - Admin
+  - Electrical
+  - Business
   platforms:
     linkedin: https://www.linkedin.com/in/abhiram-poosarla
   info:
-    - 3rd Year Undergraduate Student
-    - Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
 - firstName: Khang
   lastName: Pham
   leadership: true
   alum: false
   position: Vice President
   teams:
-    - Admin
-    - Electrical
+  - Admin
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/khang-pham1234/
   info:
-    - 3rd Year Undergraduate Student
-    - Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
 - firstName: Akshay
   lastName: Pradhan
   leadership: true
   alum: false
   position: Project Manager
   teams:
-    - Admin
-    - Electrical
+  - Admin
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/akshay-pradhan-518b41250/
   info:
-    - 4th Year Undergraduate Student
-    - Computer Engineering
+  - 4th Year Undergraduate Student
+  - Computer Engineering
 - firstName: Alexandria
   lastName: Epley
   leadership: true
   alum: false
   position: Mechanical Team Lead
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/alexandriaepley/
     github: https://github.com/aepley0844
   info:
-    - 3rd Year Undergraduate Student
-    - Mechanical Engineering
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering & Philosophy
 - firstName: Jack
   lastName: Fetkovich
   leadership: true
   alum: false
   position: Electrical Team Lead
   teams:
-    - Electrical
+  - Electrical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/jack-fetkovich
     github: https://github.com/jackfetkovich
   info:
-    - 3rd Year Undergraduate Student
-    - Electrical Engineering
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
 - firstName: Ashton
   lastName: Henderlite
   leadership: true
   alum: false
   position: Software Team Lead
   teams:
-    - Software
+  - Software
   platforms:
     linkedin: https://www.linkedin.com/in/Ashton-Henderlite
     github: https://github.com/cowboylaserkittenjetshark/
   info:
-    - 2nd Year Undergraduate Student
-    - Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
 - firstName: Saranga
   lastName: Rajagopalan
   leadership: true
   alum: false
   position: Software Team Lead
   teams:
-    - Software
+  - Software
   platforms:
     linkedin: https://www.linkedin.com/in/saranga-rajagopalan/
     github: https://github.com/SarangaR/
   info:
-    - 2nd Year Undergraduate Student
-    - Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Electrical and Computer Engineering
 - firstName: Everett
   lastName: Brostedt
   leadership: true
   alum: false
   position: External Treasurer
   teams:
-    - Admin
-    - Electrical
+  - Admin
+  - Electrical
+  - Business
   platforms:
     linkedin: https://www.linkedin.com/in/everett-brostedt-978521338/
   info:
-    - 2nd Year Undergraduate Student
-    - Electrical Engineering
+  - 2nd Year Undergraduate Student
+  - Electrical Engineering
 - firstName: Harper
   lastName: Martin
   leadership: true
   alum: false
   position: Internal Treasurer
   teams:
-    - Admin
-    - Electrical
+  - Admin
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/harper-j-martin/
   info:
-    - 2nd Year Undergraduate Student
-    - Computer Engineering
+  - Computer Engineering
+  - 3rd Year Undergraduate Student
 - firstName: Arjun
   lastName: Kuncha
   leadership: true
   alum: false
-  position: Secretary
+  position: Secretary & Incoming Project Manager
   teams:
-    - Admin
-    - Mechanical
+  - Admin
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/arjun-kuncha/
   info:
-    - 2nd Year Undergraduate Student
-    - Mechanical Engineering & Economics
+  - 2nd Year Undergraduate Student
+  - Mechanical Engineering & Economics
 - firstName: A.J.
   lastName: Beckmann
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/a-j-beckmann-691998207/
   info:
-    - 1st year Master's Student
-    - Electrical Engineering
+  - 1st year Master's Student
+  - Electrical Engineering
 - firstName: Achyuta
   lastName: Kannan
   leadership: false
   alum: false
   teams:
-    - Software
+  - Software
   platforms:
     linkedin: https://www.linkedin.com/in/achyuta-kannan/
     github: https://github.com/fategg555
   info:
-    - 4th Year Undergraduate Student
-    - Computer Science
+  - 4th Year Undergraduate Student
+  - Computer Science
 - firstName: Adhvik
   lastName: Rai
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/adhvik-rai/
   info:
-    - 3rd Year Undergraduate Student
-    - Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
 - firstName: Aeden
   lastName: Fodi
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: http://linkedin.com/in/joseph-aeden-fodi-92b23b1a7
   info:
-    - 4th Year Undergraduate Student
-    - Mechanical Engineering
+  - 4th Year Undergraduate Student
+  - Mechanical Engineering
+- firstName: Sahiti
+  lastName: Mudireddy
+  leadership: true
+  alum: false
+  position: Business Team Lead & Incoming President
+  teams:
+  - Mechanical
+  - Business
+  platforms:
+    linkedin: https://www.linkedin.com/in/sahiti-mudireddy-4300b02aa/
+  info:
+  - 2nd Year Undergraduate Student
+  - Electrical & Computer Engineering
 - firstName: Alexis
   lastName: Mead
-  leadership: false
+  leadership: true
+  position: Incoming Mechanical Team Lead
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/alexis-mead1/
   info:
-    - 2nd Year Undergraduate Student
-    - Mechanical Engineering
+  - 2nd Year Undergraduate Student
+  - Mechanical Engineering
 - firstName: Alex
   lastName: Ofsanik
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/alex-ofsanik/
   info:
-    - 5th Year Undergraduate Student
-    - Industrial & Systems Engineering
+  - 6th Year Undergraduate Student
+  - Industrial and Systems Engineering
 - firstName: Chaitanya
   lastName: Chauhan
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/chaitanya-chauhan-bb8323226/
   info:
-    - 3rd Year Undergraduate Student
-    - Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
 - firstName: Christopher
   lastName: Chu
   leadership: false
   alum: false
   teams:
-    - Electrical
-    - Software
+  - Electrical
+  - Software
   platforms:
     linkedin: https://www.linkedin.com/in/cchu34/
   info:
-    - 3rd Year Undergraduate Student
-    - Electrical & Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Electrical & Computer Engineering
 - firstName: Cole
   lastName: Austin
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/cole-austin-7845ab295/
   info:
-    - 3rd Year Undergraduate Student
-    - Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
 - firstName: Denver
   lastName: Huffman
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/denver-huffman-2225932b5/
   info:
-    - 3rd Year Undergraduate Student
-    - Mechanical Engineering
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering
 - firstName: Elizabeth
   lastName: Gillikin
   leadership: false
   alum: false
   teams:
-    - Admin
-    - Mechanical
-    - Business
+  - Admin
+  - Mechanical
+  - Business
   platforms:
     linkedin: https://www.linkedin.com/in/elizabeth-gillikin/
   info:
-    - 5th Year Undergraduate Student
-    - Mechanical Engineering
+  - 5th Year Undergraduate Student
+  - Mechanical Engineering
 - firstName: Gabriel
   lastName: Chenevert
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/gabriel-chenevert-46221a179/
   info:
-    - 3rd Year PhD student
-    - Mechanical Engineering
+  - 3rd Year PhD student
+  - Mechanical Engineering
 - firstName: Gabriel
   lastName: Riccio
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/gabriel-riccio-341405292/
   info:
-    - 3rd Year Undergraduate Student
-    - Electrical & Computer Engineering
+  - 3rd Year Undergraduate Student
+  - Electrical & Computer Engineering
 - firstName: Harrison
   lastName: McCleary
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/harrison-mccleary/
   info:
-    - 2nd Year Undergraduate Student
-    - Computer Engineering
+  - 2nd Year Undergraduate Student
+  - Computer Engineering
 - firstName: Jason
   lastName: Lu
   leadership: false
-  alum: false
+  alum: true
   teams:
-    - Software
+  - Software
   platforms:
     linkedin: https://www.linkedin.com/in/jason-lu-5333a9252/
   info:
-    - 2nd Year Undergraduate Student
-    - Computer Science
+  - 4th Year Undergraduate Student
+  - Computer Science
 - firstName: Julianna
   lastName: White
-  leadership: false
-  alum: false
+  leadership: true
+  alum: true
+  position: Project Manager
   teams:
-    - Admin
-    - Mechanical
+  - Admin
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/julianna-marie-white/
   info:
-    - Alumni
-    - Nuclear Engineering
+  - Nuclear Engineering
+  - 5th Year Undergraduate Student
 - firstName: Kelly
   lastName: Newberry
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/kelly-newberry/
   info:
-    - 3rd Year Undergraduate Student
-    - Mechanical Engineering
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering
 - firstName: Lucas
   lastName: Giannini
   leadership: false
   alum: false
   teams:
-    - Business
+  - Business
   platforms:
     linkedin: https://www.linkedin.com/in/lmgiannini/
   info:
-    - 2nd Year Undergraduate Student
-    - Business Administration
+  - 2nd Year Undergraduate Student
+  - Business Administration
 - firstName: Malachi
   lastName: Vazquez-Carr
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/malachi-vazquez-carr-b587392a7/
   info:
-    - 3rd Year Undergraduate Student
-    - Electrical Engineering
+  - 3rd Year Undergraduate Student
+  - Electrical and Computer Engineering
 - firstName: Maxwell
   lastName: Moon
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/moon-maxwell/
   info:
-    - 2nd Year Undergraduate Student
-    - Electrical Engineering
+  - 2nd Year Undergraduate Student
+  - Electrical Engineering
 - firstName: Mohamed
   lastName: Elhiber
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/mohamed-elhiber-1277b21b4/
   info:
-    - 3rd Year Undergraduate Student
-    - Electrical Engineering
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
 - firstName: Rahul
   lastName: Venulkar
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/rahul-venulkar-3b34ab231/
   info:
-    - 4th Year Undergraduate Student
-    - Computer Engineering
+  - 4th Year Undergraduate Student
+  - Computer Engineering
 - firstName: Reilly
   lastName: Witte
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/reilly-witte/
   info:
-    - 4th Year Undergraduate Student
-    - Computer Engineering
+  - 4th Year Undergraduate Student
+  - Computer Engineering
 - firstName: Renuka
   lastName: Mahadevan
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/renuka-mahadevan-2037862a5/
   info:
-    - 3rd Year Undergraduate Student
-    - Aerospace Engineering
+  - 3rd Year Undergraduate Student
+  - Aerospace Engineering
 - firstName: Ryan
   lastName: Page
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/ryan-d-page/
   info:
-    - 4th Year Undergraduate Student
-    - Mechanical Engineering
-- firstName: Sahiti
-  lastName: Mudireddy
-  leadership: false
-  alum: false
-  teams:
-    - Mechanical
-    - Business
-  platforms:
-    linkedin: https://www.linkedin.com/in/sahiti-mudireddy-4300b02aa/
-  info:
-    - 2nd Year Undergraduate Student
-    - Electrical & Computer Engineering
+  - 4th Year Undergraduate Student
+  - Mechanical Engineering
 - firstName: Sameer
   lastName: Dalal
   leadership: false
   alum: false
   teams:
-    - Electrical
-    - Business
+  - Electrical
+  - Business
   platforms:
     linkedin: https://www.linkedin.com/in/stdalal/
   info:
-    - 2nd Year Undergraduate Student
-    - Electrical & Computer Engineering
+  - 2nd Year Undergraduate Student
+  - Electrical & Computer Engineering
 - firstName: Spencer
   lastName: Mol
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/spencermol/
   info:
-    - 4th Year Undergraduate Student
-    - Mechanical Engineering
+  - 4th Year Undergraduate Student
+  - Mechanical Engineering
 - firstName: Suvesh
   lastName: Bhusal
   leadership: false
   alum: false
   teams:
-    - Electrical
+  - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/suvesh-bhusal/
   info:
-    - 3rd Year Undergraduate Student
-    - Electrical Engineering
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
 - firstName: Trevor
   lastName: Petzold
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/petzoldtrevor/
   info:
-    - 3rd Year Undergraduate Student
-    - Aerospace Engineering
+  - 3rd Year Undergraduate Student
+  - Aerospace Engineering
 - firstName: Zeta
   lastName: Held
   leadership: false
   alum: false
   teams:
-    - Mechanical
+  - Mechanical
   platforms:
     linkedin: https://www.linkedin.com/in/zeta-held-265b1524a/
   info:
-    - 3rd Year Undergraduate Student
-    - Mechanical Engineering
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering
+- firstName: Liam
+  lastName: Milner
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Graduate Student
+  - Aerospace Engineering
+  image: member.svg
+- firstName: Nathan
+  lastName: Welty
+  teams:
+  - Mechanical
+  info:
+  - 4th Year Undergraduate Student
+  - Electrical Engineering
+  image: member.svg
+- firstName: Austin
+  lastName: Dolan
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Kyle
+  lastName: Su
+  leadership: true
+  position: Incoming Vice President
+  teams:
+  - Electrical
+  - Business
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Engineering
+- firstName: Micah
+  lastName: Carson
+  teams:
+  - Electrical
+  - Software
+  info:
+  - 2nd Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Tucker
+  lastName: Wooten
+  leadership: true
+  position: Incoming Electrical Team Lead
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
+- firstName: Zeke
+  lastName: Krumnacher
+  teams:
+  - Software
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Taylor
+  lastName: Neal
+  leadership: true
+  position: Incoming Secretary
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Shawn
+  lastName: Coward
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Johnny
+  lastName: Nguyen
+  teams:
+  - Software
+  info:
+  - 1st Year Graduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Braden
+  lastName: Thomas
+  teams:
+  - Mechanical
+  info:
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Noah
+  lastName: Svirsky
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Evan
+  lastName: Pfeifer
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Arjun
+  lastName: Pradhan
+  teams:
+  - Business
+  info:
+  - 4th Year Undergraduate Student
+  - Business
+  image: member.svg
+- firstName: Julio
+  lastName: Jenkins
+  teams:
+  - Software
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
+  image: member.svg
+- firstName: Adam
+  lastName: Ghris
+  leadership: true
+  position: Incoming Treasurer
+  teams:
+  - Electrical
+  info:
+  - 2nd Year Undergraduate Student
+  - Electrical Engineering
+  image: member.svg
+- firstName: Thilo
+  lastName: Fullenkamp
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Industrial and Systems Engineering
+  image: member.svg
+- firstName: Shaurya
+  lastName: Bhatt
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Aerospace Engineering
+  image: member.svg
+- firstName: Trevor
+  lastName: Smith
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Everett
+  lastName: Tucker
+  teams:
+  - Software
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Chandana
+  lastName: Komma
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Reeves
+  lastName: Cowell
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Aerospace Engineering
+  image: member.svg
+- firstName: Siddhartha
+  lastName: Gupta
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical and Computer Engineering
+  image: member.svg
+- firstName: Carly
+  lastName: Gittle
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Cassie
+  lastName: Jay
+  teams:
+  - Software
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Will
+  lastName: Joyner
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Advay
+  lastName: Giradkar
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Cory
+  lastName: Saylor
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Vignesh
+  lastName: Rajesh
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Alex
+  lastName: Yu
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Amanda
+  lastName: Coronel
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Miles
+  lastName: Cline
+  teams:
+  - Mechanical
+  info:
+  - 2nd Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Ivan
+  lastName: Severino
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Anirudh
+  lastName: Bhaskar
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Aaron
+  lastName: Millhouse
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Biruk
+  lastName: Kebede
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
+  image: member.svg
+- firstName: Joshua
+  lastName: Ioos
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Aerospace Engineering
+  image: member.svg
+- firstName: Breana
+  lastName: Eunice Samonte
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Aidan
+  lastName: McKeithan
+  teams:
+  - Electrical
+  info:
+  - 4th Year Undergraduate Student
+  - Electrical Engineering
+  image: member.svg
+- firstName: Lance
+  lastName: Crespo
+  teams:
+  - Mechanical
+  info:
+  - 5th Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Kunsang
+  lastName: Gole
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Ananya
+  lastName: Bandaru
+  teams:
+  - Business
+  info:
+  - 1st Year Undergraduate Student
+  - Aerospace Engineering
+  image: member.svg
+- firstName: Zach
+  lastName: Peverall
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Sudiksha
+  lastName: Thota
+  teams:
+  - Mechanical
+  info:
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Robert
+  lastName: Williamson
+  teams:
+  - Mechanical
+  info:
+  - 4th Year Graduate Student
+  - Biomedical Engineeering
+  image: member.svg
+- firstName: Nicolas
+  lastName: Jimenez
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Annette
+  lastName: Carrillo
+  leadership: true
+  position: Incoming Business Team Lead
+  teams:
+  - Business
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+- firstName: Julian
+  lastName: Hernandez-Morales
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Deepak
+  lastName: Palasamudram
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Patrick
+  lastName: Kengsoontra
+  teams:
+  - Software
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Jakob
+  lastName: August
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Miranda
+  lastName: Regulez
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Easton
+  lastName: Ngo
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Josh
+  lastName: Ashik
+  teams:
+  - Software
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Thomas
+  lastName: Hart
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Larry
+  lastName: Zhao
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Colin
+  lastName: Zhong
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Faris
+  lastName: Faizal
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Kerneep
+  lastName: Sandhu
+  teams:
+  - Software
+  info:
+  - 4th Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Ashvin
+  lastName: Varadaraju
+  teams:
+  - Software
+  - Business
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Kenan
+  lastName: Sanu
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Sharifkhaja
+  lastName: 
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Amit
+  lastName: Juneja
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Siddharth
+  lastName: Upadhyay
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Keenan
+  lastName: Coleman
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Alan
+  lastName: An
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Russell
+  lastName: Lapham
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Manny
+  lastName: Senegal
+  teams:
+  - Mechanical
+  info:
+  - 3rd Year Undergraduate Student
+  - Construction Engineering
+  image: member.svg
+- firstName: Kellan
+  lastName: Murphy
+  teams:
+  - Mechanical
+  info:
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Vindya
+  lastName: Prasad
+  teams:
+  - Electrical
+  info:
+  - 2nd Year Graduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Paige
+  lastName: Jay
+  teams:
+  - Business
+  info:
+  - 1st Year Undergraduate Student
+  - Business Administration Marketing
+  image: member.svg
+- firstName: Elijah
+  lastName: Nielsen
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Prajjwal
+  lastName: Singh
+  teams:
+  - Mechanical
+  info:
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Alejandro
+  lastName: Prado
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Sampath
+  lastName: Kasina
+  leadership: true
+  position: Incoming Treasurer
+  teams:
+  - Mechanical
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Kadin
+  lastName: Ogueboule
+  teams:
+  - Software
+  info:
+  - 3rd Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Alexander
+  lastName: Gutierrez
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Materials Science Engineering
+  image: member.svg
+- firstName: Rohan
+  lastName: Patel
+  teams:
+  - Mechanical
+  info:
+  - 3rd Year Undergraduate Student
+  - Physics
+  image: member.svg
+- firstName: Emma
+  lastName: Mori
+  teams:
+  - Business
+  info:
+  - 4th Year Undergraduate Student
+  - Accounting and business analytics
+  image: member.svg
+- firstName: Alekhya
+  lastName: Sadhu
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Daniel
+  lastName: Gartner
+  teams:
+  - Software
+  info:
+  - 4th Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Kaitlyn
+  lastName: Nolte
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical Engineering
+  image: member.svg
+- firstName: Jean-Pierre
+  lastName: Uys
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Chaitanya
+  lastName: Singh Chauhan
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Mark
+  lastName: Man
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Sam
+  lastName: Mell
+  teams:
+  - Electrical
+  info:
+  - 2nd Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Steve
+  lastName: Daniel Andrew
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Julian
+  lastName: Monzavifar
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Nirmal
+  lastName: Balamurugan
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Andrew
+  lastName: Beckmann
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Myles
+  lastName: Oakley
+  teams:
+  - Electrical
+  info:
+  - 4th Year Undergraduate Student
+  - Computer Engineering
+  image: member.svg
+- firstName: Jasmitha
+  lastName: Nakka
+  teams:
+  - Electrical
+  info:
+  - 1st Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg
+- firstName: Jacob
+  lastName: Colberg
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Srikar
+  lastName: Ghadiyaram
+  teams:
+  - Software
+  - Business
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Daniel
+  lastName: Nguyen
+  teams:
+  - Mechanical
+  info:
+  - 2nd Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Thomas
+  lastName: Nelson
+  leadership: true
+  position: Incoming Electrical Team Lead
+  teams:
+  - Electrical
+  info:
+  - 2nd Year Undergraduate Student
+  - Electrical Engineering
+- firstName: Ayush
+  lastName: Patra
+  teams:
+  - Software
+  info:
+  - 1st Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Pablo
+  lastName: Comino
+  teams:
+  - Software
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Science
+  image: member.svg
+- firstName: Peter
+  lastName: Soloe
+  teams:
+  - Mechanical
+  info:
+  - 1st Year Undergraduate Student
+  - Mechanical Engineering
+  image: member.svg
+- firstName: Sean
+  lastName: Bang
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical and Computer Engineering
+  image: member.svg

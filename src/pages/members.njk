@@ -12,7 +12,7 @@ title: 'Members'
   {% set selectedMembers =  members | rejectattr('leadership') | rejectattr('alum') %}
   {% include 'partials/members-subsection.njk' %}
 
-  {% set subsectionTitle = "Alum" %}
+  {% set subsectionTitle = "Alumni" %}
   {% set selectedMembers =  members | selectattr('alum') %}
   {% include 'partials/members-subsection.njk' %}
 </div>
