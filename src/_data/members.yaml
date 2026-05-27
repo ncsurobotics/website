@@ -516,7 +516,6 @@
   info:
   - 2nd Year Undergraduate Student
   - Computer Engineering
-  image: member.svg
 - firstName: Micah
   lastName: Carson
   teams:
@@ -868,7 +867,6 @@
   info:
   - 1st Year Undergraduate Student
   - Computer Science
-  image: member.svg
 - firstName: Julian
   lastName: Hernandez-Morales
   teams:
@@ -1267,7 +1265,6 @@
   info:
   - 2nd Year Undergraduate Student
   - Electrical Engineering
-  image: member.svg
 - firstName: Ayush
   lastName: Patra
   teams:
