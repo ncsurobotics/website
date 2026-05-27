@@ -6,8 +6,7 @@ sort: 0
 #### Batteries
 ![Battery](/assets/images/electrical/battery.jpg){ .w-[40vw] }
 
-SeaWolf IX utilizes two 4s 10,000mAH LiPo batteries to power the entire system. The LiPo chemistry was chosen for its high energy density and relatively constant voltage output throughout the discharge cycle.
-
+SeaWolf IX utilizes two 4s 10,000mAH LiPo batteries to power the entire system. It was designed to use the same batteries as SeaWolf VIII for maximum component reuse. 
 #### Battery Board
 ![Battery Board](/assets/images/electrical/SWIX_BATTERY_BOARD.png){ .w-[40vw] }
 
