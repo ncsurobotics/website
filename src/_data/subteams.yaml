@@ -1,19 +1,19 @@
 - name: Mechanical
   icon: wrench
   description: Design and manufacturing of robot physical components
-  hours: 2500
+  hours: 3400
   
 - name: Electrical
   icon: bolt
   description: Design and wiring of robot circuitry
-  hours: 2100
+  hours: 3000
   
 - name: Software
   icon: code
   description: Design and development of system logic
-  hours: 1300
+  hours: 2200
   
 - name: Business
   icon: briefcase
   description: Public relations, financial management, and company relations.
-  hours: 940
+  hours: 1900

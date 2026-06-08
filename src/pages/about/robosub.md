@@ -30,4 +30,4 @@ RoboSub is an annual competition typically held in late July - early August. It 
   Return Home is a task in which the AUV has the option to pass back through the starting gate at the end of a competition run.
 
 
-To see this year's tasks and competition details, check out the newest version of the [Robosub Handbook](https://robonation.org/app/uploads/sites/4/2025/04/2025-RoboSub_Team-Handbook-04_25_25.pdf)!
+To see this year's tasks and competition details, check out the newest version of the [Robosub Handbook](https://robonation.gitbook.io/robosub-resources)!
