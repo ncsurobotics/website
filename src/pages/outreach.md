@@ -5,7 +5,13 @@ discover:
 permalink: /outreach/index.html
 layout: page
 ---
-## Industry Partners Program
+
+AquaPack Robotics is committed to giving back to both NC State and the local community. NC State University and its student body, Raleigh, and the spaces around us have given us the ability to thrive, and this is how we can show our gratefulness.    
+
+{% set itemList = collections.AboutOutreachDetailsCollection%}
+{% include 'partials/details.njk' %}
+
+{# ## Industry Partners Program
 The Industry Partners Program (IPP) is a effort by AquaPack to facilitate connections between leading companies and our students— students with real-world engineering experience.
 
 ### Student Benefits
@@ -20,4 +26,4 @@ The Industry Partners Program (IPP) is a effort by AquaPack to facilitate connec
 
 > {% svg "misc/message" %} Interested?
 >
-> If this sounds like something your company would be interested in, we would love to hear from you!
+> If this sounds like something your company would be interested in, we would love to hear from you! #}

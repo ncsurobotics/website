@@ -16,8 +16,8 @@ Sponsorships, whether monetary or in-kind, help provide support to AquaPack by a
 <!-- The buttons for download -->
 <div class="wrapper">
   <ul class="cluster text-center" role="list">
-    <a href="/assets/files/AquaPack-IPP-Packet-25-26.pdf" class="button" data-button-variant="primary">Open Industry Partners Packet</a>
-    <a href="/assets/files/Aquapack-Sponsorship-Packet 25-26.pdf" class="button" data-button-variant="primary">Open Sponsorship Packet</a>
+    <a href="/assets/files/AquaPack-IPP-Packet-25-26.pdf" class="button" data-button-variant="primary" target = "_blank">Open Industry Partners Packet</a>
+    <a href="/assets/files/Aquapack-Sponsorship-Packet 25-26.pdf" class="button" data-button-variant="primary" target = "_blank">Open Sponsorship Packet</a>
   </ul>
 </div>
 
@@ -50,7 +50,7 @@ We're a 501(c)(3) non-profit. You can receive tax write-offs by sponsoring us.
 	</div>
   <br>
 	<div class="columns__item columns__item--second">
-	<h3> Venmo Giving Charity </h3>
+	<h3> Paypal Giving Charity </h3>
   
   <p>You can donate directly to us without any fees via the Paypal giving charity. </p> 
   <ul>
