@@ -1,67 +1,59 @@
-- firstName: Abhi
-  lastName: Poosarla
+- firstName: Sahiti
+  lastName: Mudireddy
   leadership: true
   alum: false
   position: President
   teams:
-  - Admin
-  - Electrical
+  - Mechanical
   - Business
+  - Admin
   platforms:
-    linkedin: https://www.linkedin.com/in/abhiram-poosarla
+    linkedin: https://www.linkedin.com/in/sahiti-mudireddy-4300b02aa/
   info:
   - 3rd Year Undergraduate Student
-  - Computer Engineering
-- firstName: Khang
-  lastName: Pham
+  - Electrical & Computer Engineering
+- firstName: Kyle
+  lastName: Su
   leadership: true
-  alum: false
   position: Vice President
   teams:
-  - Admin
   - Electrical
-  platforms:
-    linkedin: https://www.linkedin.com/in/khang-pham1234/
+  - Business
+  - Admin
   info:
   - 3rd Year Undergraduate Student
   - Computer Engineering
-- firstName: Akshay
-  lastName: Pradhan
+- firstName: Arjun
+  lastName: Kuncha
   leadership: true
   alum: false
   position: Project Manager
   teams:
   - Admin
-  - Electrical
+  - Mechanical
   platforms:
-    linkedin: https://www.linkedin.com/in/akshay-pradhan-518b41250/
+    linkedin: https://www.linkedin.com/in/arjun-kuncha/
   info:
-  - 4th Year Undergraduate Student
-  - Computer Engineering
-- firstName: Alexandria
-  lastName: Epley
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering & Economics
+- firstName: Alexis
+  lastName: Mead
   leadership: true
-  alum: false
   position: Mechanical Team Lead
+  alum: false
   teams:
   - Mechanical
   platforms:
-    linkedin: https://www.linkedin.com/in/alexandriaepley/
-    github: https://github.com/aepley0844
+    linkedin: https://www.linkedin.com/in/alexis-mead1/
   info:
   - 3rd Year Undergraduate Student
-  - Mechanical Engineering & Philosophy
-- firstName: Jack
-  lastName: Fetkovich
+  - Mechanical Engineering
+- firstName: Tucker
+  lastName: Wooten
   leadership: true
-  alum: false
   position: Electrical Team Lead
   teams:
   - Electrical
-  - Mechanical
-  platforms:
-    linkedin: https://www.linkedin.com/in/jack-fetkovich
-    github: https://github.com/jackfetkovich
   info:
   - 3rd Year Undergraduate Student
   - Electrical Engineering
@@ -91,13 +83,89 @@
   info:
   - 3rd Year Undergraduate Student
   - Electrical and Computer Engineering
-- firstName: Everett
-  lastName: Brostedt
+- firstName: Thomas
+  lastName: Nelson
   leadership: true
+  position: Electrical Team Lead
+  teams:
+  - Electrical
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
+- firstName: Annette
+  lastName: Carrillo
+  leadership: true
+  position: Business Team Lead
+  teams:
+  - Business
+  info:
+  - 2nd Year Undergraduate Student
+  - Computer Science
+- firstName: Abhi
+  lastName: Poosarla
+  leadership: false
   alum: false
-  position: External Treasurer
+  teams:
+  - Electrical
+  - Business
+  platforms:
+    linkedin: https://www.linkedin.com/in/abhiram-poosarla
+  info:
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
+- firstName: Khang
+  lastName: Pham
+  leadership: false
+  alum: true
+  teams:
+  - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/khang-pham1234/
+  info:
+  - 3rd Year Undergraduate Student
+  - Computer Engineering
+- firstName: Akshay
+  lastName: Pradhan
+  leadership: false
+  alum: false
   teams:
   - Admin
+  - Electrical
+  platforms:
+    linkedin: https://www.linkedin.com/in/akshay-pradhan-518b41250/
+  info:
+  - 4th Year Undergraduate Student
+  - Computer Engineering
+- firstName: Alexandria
+  lastName: Epley
+  leadership: false
+  alum: false
+  teams:
+  - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/alexandriaepley/
+    github: https://github.com/aepley0844
+  info:
+  - 3rd Year Undergraduate Student
+  - Mechanical Engineering & Philosophy
+- firstName: Jack
+  lastName: Fetkovich
+  leadership: false
+  alum: false
+  teams:
+  - Electrical
+  - Mechanical
+  platforms:
+    linkedin: https://www.linkedin.com/in/jack-fetkovich
+    github: https://github.com/jackfetkovich
+  info:
+  - 3rd Year Undergraduate Student
+  - Electrical Engineering
+- firstName: Everett
+  lastName: Brostedt
+  leadership: false
+  alum: false
+  teams:
   - Electrical
   - Business
   platforms:
@@ -107,30 +175,15 @@
   - Electrical Engineering
 - firstName: Harper
   lastName: Martin
-  leadership: true
+  leadership: false
   alum: false
-  position: Internal Treasurer
   teams:
-  - Admin
   - Electrical
   platforms:
     linkedin: https://www.linkedin.com/in/harper-j-martin/
   info:
   - Computer Engineering
   - 3rd Year Undergraduate Student
-- firstName: Arjun
-  lastName: Kuncha
-  leadership: true
-  alum: false
-  position: Secretary & Incoming Project Manager
-  teams:
-  - Admin
-  - Mechanical
-  platforms:
-    linkedin: https://www.linkedin.com/in/arjun-kuncha/
-  info:
-  - 2nd Year Undergraduate Student
-  - Mechanical Engineering & Economics
 - firstName: A.J.
   lastName: Beckmann
   leadership: false
@@ -175,31 +228,6 @@
     linkedin: http://linkedin.com/in/joseph-aeden-fodi-92b23b1a7
   info:
   - 4th Year Undergraduate Student
-  - Mechanical Engineering
-- firstName: Sahiti
-  lastName: Mudireddy
-  leadership: true
-  alum: false
-  position: Business Team Lead & Incoming President
-  teams:
-  - Mechanical
-  - Business
-  platforms:
-    linkedin: https://www.linkedin.com/in/sahiti-mudireddy-4300b02aa/
-  info:
-  - 2nd Year Undergraduate Student
-  - Electrical & Computer Engineering
-- firstName: Alexis
-  lastName: Mead
-  leadership: true
-  position: Incoming Mechanical Team Lead
-  alum: false
-  teams:
-  - Mechanical
-  platforms:
-    linkedin: https://www.linkedin.com/in/alexis-mead1/
-  info:
-  - 2nd Year Undergraduate Student
   - Mechanical Engineering
 - firstName: Alex
   lastName: Ofsanik
@@ -506,16 +534,6 @@
   - 3rd Year Undergraduate Student
   - Electrical and Computer Engineering
   image: member.svg
-- firstName: Kyle
-  lastName: Su
-  leadership: true
-  position: Incoming Vice President
-  teams:
-  - Electrical
-  - Business
-  info:
-  - 2nd Year Undergraduate Student
-  - Computer Engineering
 - firstName: Micah
   lastName: Carson
   teams:
@@ -525,15 +543,6 @@
   - 2nd Year Undergraduate Student
   - Electrical and Computer Engineering
   image: member.svg
-- firstName: Tucker
-  lastName: Wooten
-  leadership: true
-  position: Incoming Electrical Team Lead
-  teams:
-  - Electrical
-  info:
-  - 3rd Year Undergraduate Student
-  - Electrical Engineering
 - firstName: Zeke
   lastName: Krumnacher
   teams:
@@ -545,11 +554,11 @@
 - firstName: Taylor
   lastName: Neal
   leadership: true
-  position: Incoming Secretary
+  position: Secretary
   teams:
   - Electrical
   info:
-  - 1st Year Undergraduate Student
+  - 2nd Year Undergraduate Student
   - Electrical and Computer Engineering
   image: member.svg
 - firstName: Shawn
@@ -611,11 +620,11 @@
 - firstName: Adam
   lastName: Ghris
   leadership: true
-  position: Incoming Treasurer
+  position: Internal Treasurer
   teams:
   - Electrical
   info:
-  - 2nd Year Undergraduate Student
+  - 3rd Year Undergraduate Student
   - Electrical Engineering
   image: member.svg
 - firstName: Thilo
@@ -858,15 +867,6 @@
   - 3rd Year Undergraduate Student
   - Computer Engineering
   image: member.svg
-- firstName: Annette
-  lastName: Carrillo
-  leadership: true
-  position: Incoming Business Team Lead
-  teams:
-  - Business
-  info:
-  - 1st Year Undergraduate Student
-  - Computer Science
 - firstName: Julian
   lastName: Hernandez-Morales
   teams:
@@ -1087,12 +1087,12 @@
 - firstName: Sampath
   lastName: Kasina
   leadership: true
-  position: Incoming Treasurer
+  position: External Treasurer
   teams:
-  - Mechanical
   - Software
+  - Admin
   info:
-  - 1st Year Undergraduate Student
+  - 2nd Year Undergraduate Student
   - Computer Science
   image: member.svg
 - firstName: Kadin
@@ -1256,15 +1256,6 @@
   - 2nd Year Undergraduate Student
   - Mechanical Engineering
   image: member.svg
-- firstName: Thomas
-  lastName: Nelson
-  leadership: true
-  position: Incoming Electrical Team Lead
-  teams:
-  - Electrical
-  info:
-  - 2nd Year Undergraduate Student
-  - Electrical Engineering
 - firstName: Ayush
   lastName: Patra
   teams:
